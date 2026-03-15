@@ -13,7 +13,7 @@ I tested this with 0.2 mm layer height and printed in PLA+ on an ender 3 v3 KE.
 </p>
 
 ## Construction Information
-**You will need:** <p>8 4mm steel ball bearings.<p>
+**You will need:** 8 4mm steel ball bearings.
 - To construct the bearing, balance seven of these in the track at the bottom of the outer shell, stood vertically.
 - Place the inner shell on top of these seven in line with the outer shell, being careful not to dislodge any of the balls. 
 - Lift the inner shell so it is pressed against the top of the outer shell. There should now be enough space to insert the eighth ball. You will have to push the balls already in out of the way to insert the final ball; be careful to not dislodge them from the track. This is the most finnicky part and may take multiple attempts.
